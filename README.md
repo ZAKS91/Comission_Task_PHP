@@ -1,18 +1,18 @@
 #  Commission task skeleton
 
-###### Composer
+#### Composer
 
 In the project root directory install composer
 
 > composer install
 
-###### Run
+#### Run
 
 Run App.php script in the project`s root directory with -f option to upload the csv file and the path of this file :
 
 > App.php -f input1.csv 
 
-###### Tests
+#### Tests
 
 Run all project tests :
 
